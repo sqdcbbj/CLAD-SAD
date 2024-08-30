@@ -1,8 +1,5 @@
 # CLAD-SAD：A Contrastive Learning Based Apple Detection Algorithm For Sparsely Annotated Dataset
 一种基于对比学习的稀疏标注苹果检测算法
-## 整体结构图
-
-
 
 ## 实验结果
 | 方法          | 模型类型 | AP<sub>0.50:0.95</sub> | AP<sub>0.5</sub> | AP<sub>0.75</sub> | AR   |
